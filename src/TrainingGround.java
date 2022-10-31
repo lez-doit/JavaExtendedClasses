@@ -1,5 +1,5 @@
 public class TrainingGround {
-    public void main() {
+    public static void main(String[] args) {
         Hero Bob = new Hero("Bob");
         Bob.attackEnemy();
     }
