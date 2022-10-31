@@ -1,5 +1,5 @@
 public class Hero {
-    public String name;
+    private String name;
 
     public Hero(String name) {
         this.name = name;
@@ -9,7 +9,8 @@ public class Hero {
         return name;
     }
 
-    public void attackEnemy() {
-        System.out.println("Hero is attacking enemy now!");
+    public void attackEnemy(Enemy enemy) {
+        System.out.println(name + " is attacking enemy now!");
+        enemy.takeDamage(10);
     }
 }
