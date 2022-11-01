@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2eca70d-0dca-46aa-b57a-0199f333c227" name="Changes" comment="Created some classes">
-      <change afterPath="$PROJECT_DIR$/src/BattleGround.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Goblin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mortal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ogre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Archer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Archer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrainingGround.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Warrior.java" afterDir="false" />
-    </list>
+    <list default="true" id="b2eca70d-0dca-46aa-b57a-0199f333c227" name="Changes" comment="Finished homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667213626896</updated>
-      <workItem from="1667213628166" duration="5930000" />
+      <workItem from="1667213628166" duration="6603000" />
     </task>
     <task id="LOCAL-00001" summary="Created repository">
       <created>1667213683801</created>
@@ -87,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667215229264</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished homework">
+      <created>1667219642314</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667219642314</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created repository" />
     <MESSAGE value="Created some classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created some classes" />
+    <MESSAGE value="Finished homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished homework" />
   </component>
 </project>
