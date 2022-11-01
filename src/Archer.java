@@ -19,7 +19,7 @@ public class Archer extends Hero{//Archer always increases his damage when enemy
         }
         else{
             if(enemy.isAlive()){
-                System.out.println("Archer is attacking enemy!");
+                System.out.println(getName() +  " is attacking enemy!");
                 enemy.takeDamage(2 + getAdditionalDamage(), this);
             }
             else {

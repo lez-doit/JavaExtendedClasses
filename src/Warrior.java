@@ -12,7 +12,7 @@ public class Warrior extends Hero{ //Warrior can block all taken damage and give
         }
         else{
             if(enemy.isAlive()){
-                System.out.println("Warrior is attacking enemy!");
+                System.out.println(getName() +  " is attacking enemy!");
                 enemy.takeDamage(3, this);
             }
             else {
