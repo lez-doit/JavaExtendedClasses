@@ -16,8 +16,10 @@ public class Mage extends Hero{ // Mage is able to add random number to his dama
                     System.out.println(getName() +  " is attacking enemy with additional damage!");
                     enemy.takeDamage(5 + getRandom().nextInt(6), this);
                 }
-                System.out.println("Mage is attacking enemy!");
-                enemy.takeDamage(5, this);
+                else {
+                    System.out.println("Mage is attacking enemy!");
+                    enemy.takeDamage(5, this);
+                }
             }
             else {
                 System.out.println("Enemy is already dead!");
